@@ -1805,6 +1805,10 @@ nav a:nth-child(3)::before{
     .scrolling-wrap {
         .comm{
             font-size: 15vw;
+            display: flex;flex-direction:row;
+        justify-content: center;
+        align-items: center;
+        margin: auto;
         }
     }
 }
